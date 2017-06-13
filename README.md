@@ -1,4 +1,4 @@
-## Sample Network Reference Architecture1
+## Sample Network Reference Architecture2
 This repository contains the code that can be used to provision a VNET in Azure
 * via Infrastructure-as-Code
 * according to a common deployment pattern
